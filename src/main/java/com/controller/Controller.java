@@ -9,6 +9,6 @@ public class Controller {
 	
 	@GetMapping("/")
 	public String hht() {
-		return "bhai shi hai";
+		return "docker image pushed";
 	}
 }
